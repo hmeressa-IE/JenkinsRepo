@@ -1,4 +1,2 @@
 
-
-this is main js file
-this is correct
+console.log("user")
